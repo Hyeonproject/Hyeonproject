@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+안녕하세요. 이동현입니다.
+그냥 학습 합니다.
+
 <!--
 **Hyeonproject/Hyeonproject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
