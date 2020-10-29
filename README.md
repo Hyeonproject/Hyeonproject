@@ -1,5 +1,6 @@
 #Make Hyeonproject
 >가치, 행복, 성장
+
 github는 공개용, gitlab은 연구 및 학습용으로 활용하고 있습니다.
 
 - 🌱 I’m currently learning HTML/CSS/JS, Node.js 
