@@ -1,8 +1,10 @@
-### Hi there 👋
+#Make Hyeonproject
+>가치, 행복, 성장
+github는 공개용, gitlab은 연구 및 학습용으로 활용하고 있습니다.
 
-안녕하세요. 이동현입니다.
-그냥 학습 합니다.
-
+- 🌱 I’m currently learning HTML/CSS/JS, Node.js 
+- 📫 I Studied.. :  Python, Django, DataSice, etc
+- ⚡ Fun fact: I`m study private survey and Psychology, I worked Event company, I've led a startup team.
 <!--
 **Hyeonproject/Hyeonproject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
