@@ -5,7 +5,7 @@ github는 공개용, gitlab은 연구 및 학습용으로 활용하고 있습니
 
 - 🌱 I’m currently learning HTML/CSS/JS, Node.js 
 - 📫 I Studied.. :  Python, Django, DataScience etc
-- ⚡ Fun fact: I  private survey and Psychology, I worked Event company, I've led a startup team.
+- ⚡ Fun fact: I studied  private survey and Psychology, I worked Event company, I've led a startup team.
 <!--
 **Hyeonproject/Hyeonproject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
