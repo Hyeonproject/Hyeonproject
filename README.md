@@ -1,6 +1,8 @@
 #Make Hyeonproject
 >가치, 행복, 성장
 
+11월의 생각 : 기회를 주셔서 면접을 보게 되었는데, 아직 부족하다고 많이 느꼈습니다.
+
 github는 공개용, gitlab은 연구 및 학습용으로 활용하고 있습니다.
 
 - 🌱 I’m currently learning HTML/CSS/JS, Node.js
