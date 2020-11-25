@@ -1,14 +1,14 @@
 <h1>Restart Programmer</h1>
 >가치, 행복, 성장
 
-올해의 생각 : 기회를 주셔서 면접을 보게 되었는데, 아직 부족하다고 많이 느꼈습니다. 어제보다 성장하는 내일을 만드는 것이 목표이자 생각입니다.
-
-현실의 문제를 통계학적으로 수학적으로 풀어나가는 방법과, 기본적인 원리에 관심이 많습니다.
-
 github는 공개용, gitlab은 연구 및 학습용으로 활용하고 있습니다.
 
-- 🌱 I’m currently learning HTML/CSS/JS, Node.js
-- 📫 I Studied.. :  Python, Django, DataScience etc
+언어와 프레임워크에 구애받지 않고, 기본 원리를 잘 이해하기 위해서 학습합니다. (언어의 설계에 대한 장단점과 프레임워크 또는 라이브러리의 장단점이 있습니다.)
+
+마이크로서비스 아키텍쳐를 생각하며 프로젝트를 제작하며 학습하는 것을 목적으로 하고 있습니다.
+
+- 🌱 나는 [Node.js, Django, FastAPI]을 학습하고 있습니다.
+- 📫 저는 공부를 해봤습니다. :  Python, Django, DataScience etc
 - ⚡ Fun fact: I studied  private survey and Psychology, I worked Event company, I've led a startup team.
 - Fun homepage : http://community.bigdatalab.kro.kr/community/ (server crash.. ㅠㅠ)
 <!--
