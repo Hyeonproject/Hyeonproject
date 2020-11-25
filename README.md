@@ -7,7 +7,7 @@ github는 공개용, gitlab은 연구 및 학습용으로 활용하고 있습니
 
 마이크로서비스 아키텍쳐를 생각하며 프로젝트를 제작하며 학습하는 것을 목적으로 하고 있습니다.
 
-[Blog] : https://hyeonproject.medium.com/restart-programming-%EC%9D%98-%EC%9D%B4%EC%9C%A0%EC%99%80-%EC%8B%9C%EC%9E%91-409e5d02ffca Restart Programmer Blog
+[Blog] (https://hyeonproject.medium.com/restart-programming-%EC%9D%98-%EC%9D%B4%EC%9C%A0%EC%99%80-%EC%8B%9C%EC%9E%91-409e5d02ffca, Restart Programmer Blog)
 
 - 🌱 나는 [Node.js, Django, FastAPI]을 학습하고 있습니다.
 - 📫 저는 공부를 해봤습니다. :  Python, Django, DataScience etc
