@@ -1,7 +1,7 @@
-<h1>Restart Programmer</h1>
-> 가치, 행복, 성장
+<h1>즐기고 나아가는 이동현</h1>
+> 어떠한 도전도 즐기는 개발자
 
-가치 있는 서비스와 기술을 통해서 도움이 되는 것을 만들고 싶은 개발자입니다.
+가치있는 것을 만들기 위해서 즐기며 나아가는 개발자 이동현입니다.
 
 <h2>소개</h2>
 github는 공개 및 이력서 및 학습용, gitlab은 연구 및 학습용(편안하게 막하는 용도)로 활용하고 있습니다.
@@ -14,10 +14,10 @@ github는 공개 및 이력서 및 학습용, gitlab은 연구 및 학습용(편
 
 - 현재 프로젝트로 Moneyclass를 다른 개발자와 협업하여서 진행 중입니다.
 - 프로젝트의 상황과 목표에 따라서 잘 이해하고 그에 맞는 서비스나 기술을 프로그래밍하는 방향을 추구합니다.
-- 언어와 프레임워크에 구애받지 않고, 기본 원리를 잘 이해하기 위해서 학습합니다. (언어의 설계에 대한 장단점과 프레임워크 또는 라이브러리의 장단점을 파악하고 잘 사용하기 위해서)
+- 언어와 프레임워크에 집착하기 보다는 그 원리와 장점 단점을 파악하며 원론적인 부분에 더 집중합니다.
 
-- 🌱 I’m currently learning Python Backend Framework(Django, FastAPI.)
-- 📫 I`m Studied :  Python, Django, DataScience etc
+- 🌱 I’m currently learning Python Backend Framework(Django, FastAPI, Flask). Javascrip, CSS
+- 📫 I`m Studied :  Python, Django, FastAPI, DataScience etc
 - ⚡ Fun fact: I studied private survey and Psychology, I worked Event company, I've led a startup team.
  <!-- - Fun homepage : http://community.bigdatalab.kro.kr/community/ (server crash.. ㅠㅠ) -->
 <!--
