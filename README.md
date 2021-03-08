@@ -8,7 +8,7 @@ github는 공개, gitlab은 연구 및 학습용(편안하게 막하는 용도)�
 또한 블로그에서 생각이나 학습하면서 발견한 개인적인 경험을 공유하고 있습니다.
 
 [Gitlab](https://gitlab.com/Dalsa)<br>
-[Blog](https://hyeonproject.medium.com)
+[Blog](https://hyeonproject.medium.com)<br>
 [Study Note](https://www.notion.so/hyeonproject/Restart-Programmer-cd3bfb8570d643de982f8eca557519af)
 
 <h2>목표와 생각</h2>
