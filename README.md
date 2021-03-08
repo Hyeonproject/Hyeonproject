@@ -12,11 +12,11 @@ github는 공개, gitlab은 연구 및 학습용(편안하게 막하는 용도)�
 
 <h2>목표와 생각</h2>
 
-- Moneclass 프로젝트를 진행하였으나 인원의 사정으로 인해서 개인적인 학습 및 기술을 연마하고 있습니다!!
+- 최근 Toy 프로젝트 계획하고 하고 있습니다. DBMS에 대한 깊은 이해를 위해서 더 공부합니다. Django와 javscript 기반의 Frmaewrok 및 docker를 사용한 클라우드 운영을 학습 중입니다.
 - 프로젝트의 상황과 목표에 따라서 잘 이해하고 그에 맞는 서비스나 기술을 프로그래밍하는 방향을 추구합니다.
 - 언어와 프레임워크에 집착하기 보다는 그 원리와 장점 단점을 파악하며 원론적인 부분에 더 집중합니다.
 
-- 🌱 I’m currently learning Python Backend Framework(Django, FastAPI, Flask). Javascrip, CSS
+- 🌱 I’m currently learning Python Backend Framework(Django, FastAPI). Javascrip, vue.js, DBMS
 - 📫 I`m Studied :  Python, Django, FastAPI, DataScience etc
 - ⚡ Fun fact: I studied private survey and Psychology, I worked Event company, I've led a startup team.
  <!-- - Fun homepage : http://community.bigdatalab.kro.kr/community/ (server crash.. ㅠㅠ) -->
