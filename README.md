@@ -4,8 +4,9 @@
 가치있는 것을 만들기 위해서 즐기며 나아가는 개발자 이동현입니다.
 
 <h2>소개</h2>
-github는 공개, gitlab은 연구 및 학습용(편안하게 막하는 용도)로 활용하고 있습니다.
-또한 블로그에서 생각이나 학습하면서 발견한 개인적인 경험을 공유하고 있습니다.
+github를 사용하고, gitlab은 연구했던 내용과 연구실 경험이 있어서 올립니다. (Gitlab CI CD를 사용하는것도 추후 목표입니다.)
+일부 학습 부분에서만 보안 또는 .gitignore를 적지 않고 외주나 작업한 프로젝트는 보안을 준수합니다.
+
 
 [Gitlab](https://gitlab.com/Dalsa)<br>
 [Blog](https://hyeonproject.medium.com)<br>
