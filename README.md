@@ -14,9 +14,10 @@ github와 gitlab 둘 다 사용합니다. 사실 private 프로젝트도 있어�
 
 <h2>목표와 생각</h2>
 
-- 최근 Toy 프로젝트 계획하고 하고 있습니다. DBMS에 대한 깊은 이해를 위해서 더 공부합니다. Django와 javscript 기반의 Frmaewrok 및 docker를 사용한 클라우드 운영을 학습 중입니다.
+- 최근 Toy 프로젝트 계획하고 하고 있습니다. DBMS에 대한 깊은 이해를 위해서 더 공부합니다. Django와 javscript 기반의 Framewrok 및 docker를 사용한 클라우드 운영을 학습 중입니다.
 - 프로젝트의 상황과 목표에 따라서 잘 이해하고 그에 맞는 서비스나 기술을 프로그래밍하는 방향을 추구합니다.
 - 언어와 프레임워크에 집착하기 보다는 그 원리와 장점 단점을 파악하며 원론적인 부분에 더 집중합니다.
+- 일을 할 기회를 알아보고 있습니다. 많은 기회와 연락을 주어서 매우 감사합니다. ㅎㅎ 
 
 - 🌱 I’m currently learning Python Backend Framework(Django, FastAPI). Javascrip, vue.js, DBMS
 - 📫 I`m Studied :  Python, Django, FastAPI, DataScience etc
