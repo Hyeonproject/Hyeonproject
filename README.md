@@ -24,8 +24,8 @@
 ### Deployment
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=NGINX&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Gogle Cloud-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=Microsoft Azure&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Gogle Cloud-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=Microsoft-Azure&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Naver Cloud-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> 
 
 ### Data
@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/Window-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Linux Mint-87CF3E?style=flat-square&logo=Linux Mint&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Linux Mint-87CF3E?style=flat-square&logo=Linux-Mint&logoColor=white"/></a>
 
 ## 소개
 미래는 컴퓨터를 기반으로 다른 분야가 융합될 것이라고 생각하며, 고등학교와 대학교를 컴퓨터 전공을 하였습니다. <br>
