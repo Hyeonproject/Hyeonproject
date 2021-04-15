@@ -1,6 +1,11 @@
 # 즐기면서 나아가는 개발자 이동현입니다. (Enjoy and progress developer)
 > 컴퓨터 자체를 좋아하고 연구하기 좋아하는 개발자
 
+## 소개
+미래는 컴퓨터를 기반으로 다른 분야가 융합될 것이라고 생각하며, 고등학교와 대학교를 컴퓨터 전공을 하였습니다. <br>
+정말 다양한 것을 혼자 조용히 하는 Nerd 였지만 대학에 들어와서 기술과 가치를 보는 법을 배웠고, <br>
+Web을 통해서 많은 데이터가 흐르고 그 데이터를 통해서 많은 것을 할 수 있을 것이라 생각하고 가치 있는 일을 함께 할 수있는 장소를 찾습니다!<br>
+
 ## Dev Stack
 ### Laguange
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -37,11 +42,6 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Linux Mint-87CF3E?style=flat-square&logo=Linux-Mint&logoColor=white"/></a>
-
-## 소개
-미래는 컴퓨터를 기반으로 다른 분야가 융합될 것이라고 생각하며, 고등학교와 대학교를 컴퓨터 전공을 하였습니다. <br>
-정말 다양한 것을 혼자 조용히 하는 Nerd 였지만 대학에 들어와서 기술과 가치를 보는 법을 배웠고, <br>
-Web을 통해서 많은 데이터가 흐르고 그 데이터를 통해서 많은 것을 할 수 있을 것이라 생각하고 가치 있는 일을 함께 할 수있는 장소를 찾습니다!<br>
 
 ## 나와 관계된 개발 관련 사이트
 [Gitlab](https://gitlab.com/Dalsa)<br>
