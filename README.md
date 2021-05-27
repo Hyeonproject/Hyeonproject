@@ -1,11 +1,6 @@
 # 즐기면서 나아가는 개발자 이동현입니다. (Enjoy and progress developer)
 > 웹 세계를 즐겨볼려는 개발자
 
-## 소개
-미래는 컴퓨터를 기반으로 다른 분야가 융합될 것이라고 생각하며, 고등학교와 대학교를 컴퓨터 전공을 하였습니다. <br>
-정말 다양한 것을 혼자 조용히 하는 Nerd 였지만 대학에 들어와서 기술과 가치를 보는 법을 배웠고, <br>
-Web을 통해서 많은 데이터가 흐르고 그 데이터를 통해서 많은 것을 할 수 있을 것이라 생각하고 가치 있는 일을 함께 할 수있는 장소를 찾습니다!<br>
-
 ## Dev Stack
 ### Laguange
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -54,6 +49,6 @@ Web을 통해서 많은 데이터가 흐르고 그 데이터를 통해서 많은
 - 프로젝트의 상황과 목표에 따라서 잘 이해하고 그에 맞는 서비스나 기술을 프로그래밍하는 방향을 추구합니다.
 - 언어와 프레임워크에 집착하기 보다는 그 원리와 장점 단점을 파악하며 원론적인 부분에 더 집중합니다.
 
-- 🌱 I’m currently learning Python Backend Framework(Django, FastAPI). Javascrip, vue.js, DBMS
+- 🌱 I’m currently learning Python Backend Framework(Django, FastAPI). Javascrip, svelte, DBMS
 - 📫 I`m Studied :  Python, Django, FastAPI, DataScience etc
 - ⚡ Fun fact: I studied private survey and Psychology, I worked Event company, I've led a startup team.
