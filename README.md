@@ -1,6 +1,10 @@
 # 즐기면서 나아가는 개발자 이동현입니다. (Enjoy and progress developer)
 > 웹 세계를 즐겨볼려는 개발자
 
+## 저를 평가하기 위해서 드리고 싶은 말씀
+
+- 학습용은 readme.md를 적당히 적은 감이 있으며, notion에 정리를 했지만 저가 이해하기 편하게 적었습니다. 기술 개발 블로그 같은 경우에
+
 ## Dev Stack
 ### Laguange
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
